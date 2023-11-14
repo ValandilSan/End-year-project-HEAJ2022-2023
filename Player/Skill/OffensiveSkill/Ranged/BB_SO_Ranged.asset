@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdb95dfeb1ea6ca46badfbc62b4f9ebb, type: 3}
+  m_Name: BB_SO_Ranged
+  m_EditorClassIdentifier: 
+  _CoolDown: 5
+  _ManaCost: 15
+  _Animationclip: {fileID: -203655887218126122, guid: 07917e23f5638a84f8e4cbc8d5667332, type: 3}
+  _NameOfTheSkill: Ranged
+  _DamageDone: 50
+  _projectile: {fileID: 8111603992665033538, guid: f70976206a0d29949bb9601168e6f3da, type: 3}

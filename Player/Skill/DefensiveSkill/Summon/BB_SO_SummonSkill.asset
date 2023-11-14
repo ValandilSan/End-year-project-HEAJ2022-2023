@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fd0d8a58c0b78c4c9525626f2fe0dd4, type: 3}
+  m_Name: BB_SO_SummonSkill
+  m_EditorClassIdentifier: 
+  _CoolDown: 20
+  _ManaCost: 30
+  _Animationclip: {fileID: -203655887218126122, guid: 8d1ec12f2abe44a45ae19da3ddbdbc68, type: 3}
+  _NameOfTheSkill: Summon
+  _TimeToBeInvisibleForEnnemy: 5
+  _Bait: {fileID: 8639824145921837495, guid: f09d112401ef2f44bba0c9f9c9273fa8, type: 3}
+  _DistanceBetweenPlayerAndBait: 2.5
+  _DistanceInPourcentageToStopAnim: 0.2
+  _StartPositionOfthEBait: 10
+  _SpeedToGetOutOfTheGround: 4
+  _DistanceWithAWall: 0.5
+  _YOffset: 0.5
